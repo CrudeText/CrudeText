@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I'm William
 
-<!--
-**CrudeText/CrudeText** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious engineer with a background in environmental systems and a strong interest in data, machine learning, and scientific tools. I enjoy working on projects that bring together tech, science, and creative problem-solving.
 
-Here are some ideas to get you started:
+Most of my experience comes from working on water infrastructure projects, GIS mapping, and prototyping in the field — but I also spend a lot of time learning and building things on the side, from AI experiments to open datasets and electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is a mix of personal projects, experiments, and learning journeys. Some are complete, some are half-broken — all of them are fun to build.
+
+---
+
+## 🔍 Interests
+
+- Reinforcement learning & AI side quests  
+- GIS & spatial storytelling  
+- Arduino & data from the real world  
+- Visualizing things that don’t want to be visualized  
+
+---
+
+## 🧰 Tools I Like Using
+
+- Python, Jupyter, Pandas, TensorFlow  
+- QGIS, Folium, GDAL  
+- Arduino, C++  
+- SolidWorks, PowerBI  
+
+---
+
+## 📂 Repositories (a work in progress)
+
+You'll find things like:
+- An AI trying to learn Tarot 🃏  
+- GIS and environmental data analyses  
+- Jupyter notebooks on random datasets  
+- Sensor experiments with tiny machines  
+
+More to come soon.  
+This place is under construction — bring a helmet. 🛠️
+
+---
+
+Thanks for visiting!
