@@ -34,7 +34,8 @@ You'll find things like:
 - An AI trying to learn Tarot 🃏  
 - GIS and environmental data analyses  
 - Jupyter notebooks on random datasets  
-- Sensor experiments with tiny machines  
+- Sensor experiments with tiny machines
+- Computer generated art
 
 More to come soon.  
 This place is under construction — bring a helmet. 🛠️
