@@ -31,9 +31,9 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 ## 📂 Repositories (a work in progress)
 
 You'll find things like:
+- Computer generated art
 - Jupyter notebooks on random datasets  
 - Sensor experiments with tiny machines
-- Computer generated art
 
 More to come soon (An AI trying to learn 🃏...)  
 This place is under construction — bring a helmet. 🛠️
