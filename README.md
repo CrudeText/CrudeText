@@ -32,8 +32,8 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 
 You'll find things like:
 - Computer generated art
-- Jupyter notebooks on random datasets  
-- Sensor experiments with tiny machines
+- A tool for training neural networkd for seafloor classification 
+- Sensor experiments with tiny machines (finalizing repo)
 
 More to come soon (An AI trying to learn 🃏...)  
 This place is under construction — bring a helmet. 🛠️
