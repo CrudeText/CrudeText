@@ -21,9 +21,9 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 
 ## 🧰 Tools I Like Using
 
-- Python, Jupyter, Pandas, TensorFlow  
-- QGIS, Folium, GDAL  
-- Arduino, C++  
+- Python (Pandas, numpy, Tensorflow, XGBoost...)  
+- QGIS, ArcGIS 
+- Arduino, R, Matlab  
 - SolidWorks, PowerBI  
 
 ---
