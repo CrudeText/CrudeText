@@ -37,7 +37,7 @@ You'll find things like:
 - A tool for training neural networkd for seafloor classification 
 - Sensor experiments with tiny machines (finalizing repo)
 
-More to come soon (An AI trying to learn 🃏...)  
+More to come soon (A CT scan to 3D body model workflow, an AI trying to learn 🃏...)  
 This place is under construction — bring a helmet. 🛠️
 
 ---
