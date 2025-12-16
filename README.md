@@ -35,7 +35,7 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 You'll find things like:
 - Software integrating a complete workflow from raw 2D medical images to custom 3D files
 - Computer generated art
-- A tool for training neural networkd for seafloor classification 
+- A tool for training neural networks for seafloor classification 
 - Sensor experiments with tiny machines (finalizing repo)
 
 More to come soon (A CT scan to 3D body model workflow, an AI trying to learn 🃏...)  
