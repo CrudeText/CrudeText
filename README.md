@@ -36,7 +36,7 @@ You'll find things like:
 - Software integrating a complete workflow from raw 2D medical images to custom 3D files
 - Computer generated art
 - A tool for training neural networks for seafloor classification 
-- Sensor experiments with tiny machines (finalizing repo)
+- Sensor experiments for small scale real-life hydropower simulation (finalizing repo)
 
 More to come soon (A CT scan to 3D body model workflow, an AI trying to learn 🃏...)  
 This place is under construction — bring a helmet. 🛠️
