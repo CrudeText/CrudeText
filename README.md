@@ -33,6 +33,7 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 ## 📂 Repositories (a work in progress)
 
 You'll find things like:
+- Software integrating a complete workflow from raw 2D medical images to custom 3D files
 - Computer generated art
 - A tool for training neural networkd for seafloor classification 
 - Sensor experiments with tiny machines (finalizing repo)
