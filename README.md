@@ -1,6 +1,6 @@
 # 👋 Hey, I'm William
 
-I'm an environmenral engineer wanting to explore as much as I can. I have a background in environmental systems and a strong interest in data, machine learning, and scientific tools. I enjoy working on projects that bring together tech, science, and creative problem-solving.
+I'm an environmenral engineer wanting to explore as much as I can. I have a background in water and environmental engineering and a strong interest in data, machine learning, and scientific tools. I enjoy working on projects that bring together tech, science, and creative problem-solving.
 
 Most of my experience comes from working on water infrastructure projects, GIS mapping, and prototyping in the field — but I also spend a lot of time learning and building things on the side, from AI experiments to open datasets and electronics.
 
