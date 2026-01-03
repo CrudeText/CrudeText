@@ -1,4 +1,4 @@
-# 👋 Hey, I'm William
+# Hey, I'm William
 
 I'm an environmenral engineer wanting to explore as much as I can. I have a background in water and environmental engineering and a strong interest in data, machine learning, and scientific tools. I enjoy working on projects that bring together tech, science, and creative problem-solving.
 
@@ -12,7 +12,7 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 
 ---
 
-## 🔍 Interests
+## Interests
 
 - Reinforcement learning & AI side quests  
 - GIS & spatial storytelling  
@@ -21,7 +21,7 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 
 ---
 
-## 🧰 Tools I Like Using
+## Tools I Like Using
 
 - Python (Pandas, numpy, Tensorflow, XGBoost...)  
 - QGIS, ArcGIS 
@@ -30,7 +30,7 @@ This GitHub is a mix of personal projects, experiments, and learning journeys. S
 
 ---
 
-## 📂 Repositories (a work in progress)
+## Repositories (a work in progress)
 
 You'll find things like:
 - Software integrating a complete workflow from raw 2D medical images to custom 3D files
@@ -39,7 +39,7 @@ You'll find things like:
 - Sensor experiments for small scale real-life hydropower simulation (finalizing repo)
 
 More to come soon (an AI trying to learn 🃏...)  
-This place is under construction — bring a helmet. 🛠️
+This place is under construction — bring a helmet. 
 
 ---
 
