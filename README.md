@@ -1,46 +1,9 @@
 # Hey, I'm William
 
-I'm an environmenral engineer wanting to explore as much as I can. I have a background in water and environmental engineering and a strong interest in data, machine learning, and scientific tools. I enjoy working on projects that bring together tech, science, and creative problem-solving.
-
-Most of my experience comes from working on water infrastructure projects, GIS mapping, and prototyping in the field - but I also spend a lot of time learning and building things on the side, from AI experiments to open datasets and electronics.
-
 My python skills are self-taught, so don't be surprised if the script is not always optimized. As long as it works and doesn't take an hour to run, I'm happy!
 
 This GitHub is a mix of personal projects, experiments, and learning journeys.
 
 ![Profile Views](https://www.williamguerrand.com/api/counter?username=CrudeText)
-
----
-
-## Interests
-
-- Reinforcement learning & AI side quests  
-- GIS & spatial storytelling  
-- Arduino & data from the real world  
-- Visualizing things that don’t want to be visualized  
-
----
-
-## Tools I Like Using
-
-- Python (Pandas, numpy, Tensorflow, XGBoost...)  
-- QGIS, ArcGIS 
-- Arduino, R, Matlab  
-- SolidWorks, PowerBI  
-
----
-
-## Repositories (a work in progress)
-
-You'll find things like:
-- Software integrating a complete workflow from raw 2D medical images to custom 3D files
-- Computer generated art
-- A tool for training neural networks for seafloor classification 
-- Sensor experiments for small scale real-life hydropower simulation (finalizing repo)
-
-More to come soon (an AI trying to learn 🃏...)  
-This place is under construction — bring a helmet. 
-
----
 
 Thanks for visiting!
